@@ -1,0 +1,7 @@
+baseURL = 'http://sample-hosting.s3-website-ap-northeast-1.amazonaws.com'
+languageCode = 'en-us'
+title = 'my sample s3 static site'
+#theme = "ananke"
+theme = "hugo-theme-learn"
+relativeURLs = true
+uglyurls = true
